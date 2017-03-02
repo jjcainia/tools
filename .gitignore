@@ -1,0 +1,6 @@
+*.mat
+*.txt
+.D_store
+*~
+*.mex*
+init.sh
